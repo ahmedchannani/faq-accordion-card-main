@@ -28,13 +28,13 @@ Users should be able to:
 - Hide/Show the answer to a question when the question is clicked
 
 ### Screenshot
-(/home/mark-wolf/My Stuff/Javascript projects/Front end mentor Projects - Newbie/faq-accordion-card-main/images/faq-accordian-project-screenshott.png)
+(images/faq-accordian-project-screenshott.png)
 
 
 ### Links
 
-- Solution URL: [solution URL here](https://your-solution-url.com)
-- Live Site URL: [live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/faqaccordioncardmain-rAlSgesIYm)
+- Live Site URL: [live site URL here](https://ahmedchannani.github.io/faq-accordion-card-main/)
 
 
 
@@ -68,6 +68,6 @@ Ahmed Channani
 
 ## Acknowledgments
 
-I wanna give to my friends Zakaria Barkouche and Mondir Hallouli for thier hellp and guidance
+I wanna give credit to my friends Zakaria Barkouche and Mondir Hallouli for thier hellp and guidance
 
 
