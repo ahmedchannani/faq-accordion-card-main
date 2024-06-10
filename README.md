@@ -28,7 +28,7 @@ Users should be able to:
 - Hide/Show the answer to a question when the question is clicked
 
 ### Screenshot
-(./images/faq-accordian-project-screenshott.png)
+![Project screenshot](<images/faq-accordian-project-screenshott.png>)
 
 
 ### Links
